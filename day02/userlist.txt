@@ -1,7 +1,7 @@
-﻿用户名  密码   登陆次数
-aaa    aaa223     2
-bbb    bbb123     1
-ccc    ccc123     0
-ddd    ddd123     0
-eee    eee123     0
-fff    fff123     0
+﻿用户名  密码   登陆次数   余额
+aaa    aaa123     2       1000
+bbb    bbb123     2       2000
+ccc    ccc123     0       0
+ddd    ddd123     0       0
+eee    eee123     0       0
+fff    fff123     0       0
